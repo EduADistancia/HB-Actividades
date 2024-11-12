@@ -62,9 +62,12 @@ input {
     border-radius: 5px;
 }
 
+label {
+    margin: 0 0.5rem;
+}
+
 select {
     font-size: large;
-    width: 80%;
     height: 2rem;
     margin: 0 0.5rem;
 }

@@ -30,7 +30,13 @@ function crearCuestionario(datos){
         } else if (d["Tipo"] === "Respuesta") {
 
             if (!rta) {
+                let etiqSelect = document.createElement('label');
+                etiqSelect.innerText = 'Opciones: ';
+                etiqSelect.htmlFor = pregunta;
+                divItem.append(etiqSelect);
+
                 rta = document.createElement('select');
+                rta.id = pregunta;
                 let seleccione = document.createElement('option');
                 seleccione.text = 'Seleccioná';
                 seleccione.selected = true;
