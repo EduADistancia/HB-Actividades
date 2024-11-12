@@ -1,0 +1,164 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Celular",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Nicolás pasó bastante tiempo de la semana previa usando Internet y redes sociales para buscar planes para su viaje.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Mail",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Por el contrario, Nicolás no revisó los mails que le fueron llegando mientras hablaba con su compañero, lo cual repercutió negativamente en su organización.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Entretenimiento",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Al quedarse conversando con su compañero más de una hora, perdió tiempo en el que podría haber adelantado pendientes.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Reuniones",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "La reunión con su jefe parece ser importante. En este caso no era innecesaria, dado que se la pidieron para que él pudiera mostrar un reporte de su trabajo, y contar al respecto. De todas maneras, no llegó a prepararla, y eso puede haber afectado su imagen frente a su jefe, mostrando una clara falta de organización.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "No delegar",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "En esta historia, no está explicitado si Nicolás y su compañero tienen cargas desiguales de trabajo o si existiría la posibilidad de que Nicolás delegue en él algunas tareas.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Procrastinación",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Nicolás deja para la semana siguiente muchos pendientes, no los anota, y no se ocupa de dejar ordenado su espacio.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Desorden en el espacio de trabajo",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Nicolás se encuentra con un gran desorden de papeles en su espacio de trabajo y eso le quita tiempo para resolver sus pendientes.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Conflictos innecesarios",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "No está explicitado que haya un conflicto entre compañeros/as o entre Nicolás y su superior.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Impuntualidad",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "Nicolás llega tarde a su trabajo por un inconveniente en el transporte, y eso le quita aún más tiempo para poder solucionar la situación.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    }
+]

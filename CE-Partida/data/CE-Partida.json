@@ -1,0 +1,177 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Tenés que contarle a alguien una idea que tuviste para un nuevo proyecto y querés convencerlo/a de que tu idea es buena, ¿cuál de las siguientes opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hacés todo el trabajo rápido por tu cuenta para asegurarte de que se haga correctamente.",
+        "Devolucion": "Más allá que esto que hacés, en algunos casos específicos puede servir, te recomendamos que prestes especial atención al Episodio 2 - Escena 2, en donde vamos a hablar sobre algunos obstáculos que puede existir al momento de comunicarnos y podemos no darnos cuenta. También, puede serte de ayuda el Episodio 2 - Escena 1, para conocer los diferentes estilos de comunicación que podemos adoptar en diferentes situaciones de la vida."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Dividís el trabajo en partes iguales y que cada miembro del equipo haga lo que corresponde para luego unirlo todo.",
+        "Devolucion": "Más allá que esto que hacés, en algunos casos específicos puede servir, te recomendamos que prestes especial atención al Episodio 2 - Escena 2, en donde vamos a hablar sobre algunos obstáculos que puede existir al momento de comunicarnos y podemos no darnos cuenta. También, puede serte de ayuda el Episodio 2 - Escena 1, para conocer los diferentes estilos de comunicación que podemos adoptar en diferentes situaciones de la vida."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Escuchás las ideas de los miembros del equipo, colaborando y compartiendo responsabilidades para alcanzar los objetivos que tienen en común.",
+        "Devolucion": " Si medida que vas contando la idea, chequeás si la otra persona está entendiendo lo que le estás diciendo, ¡felicitaciones! Es una muy buena estrategia. En base a esto, te recomendamos prestar especial atención al Episodio 5 - Escena 1, donde vas a encontrar una guía para lograr una comunicación efectiva, la cual te puede ayudar a mejorar tus habilidades y a alcanzar tus objetivos.\n"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Trabajás en silencio y sólo te comunicás con el equipo cuando se te pida, evitando cualquier interacción adicional.",
+        "Devolucion": "Más allá que esto que hacés, en algunos casos específicos puede servir, te recomendamos que prestes especial atención al Episodio 2 - Escena 2, en donde vamos a hablar sobre algunos obstáculos que puede existir al momento de comunicarnos y podemos no darnos cuenta. También, puede serte de ayuda el Episodio 2 - Escena 1, para conocer los diferentes estilos de comunicación que podemos adoptar en diferentes situaciones de la vida."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Vas a empezar a trabajar en un comercio de venta de productos típicos argentinos para turistas. ¿Cuál de las siguientes opciones te parece más importante a tener en cuenta?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muchas de las personas que vayan al comercio, pueden hablar otro idioma, por lo que será importante saber cómo resolver esa dificultad para comunicarse.",
+        "Devolucion": "Esto es algo muy importante a tener en cuenta. Para conocer un poco más sobre los diferentes obstáculos que pueden existir antes de comunicarte con otros, te recomendamos que presentes especial atención al Episodio 2 - Escena 2, en donde veremos algunas interferencias que podemos encontrar al momento de querer transmitir un mensaje."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si estás bien vestido/a y arreglado/a, hay más probabilidades de que los clientes quieran comprar algo.",
+        "Devolucion": "Más allá que la opción que elegiste puede ser algo que sirva, creemos que sería interesante que prestar especial atención al Episodio 3, en donde veremos los temas de la comunicación oral y la escucha activa. Tener en cuenta estos conceptos, te podrían ser de gran ayuda."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si ponés música en un volúmen muy alto, la gente se va a sentir más atraída para ingresar al local.",
+        "Devolucion": "Más allá que la opción que elegiste puede ser algo que sirva, creemos que sería interesante que prestar especial atención al Episodio 3, en donde veremos los temas de la comunicación oral y la escucha activa. Tener en cuenta estos conceptos, te podrían ser de gran ayuda."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Para que los clientes no sientan que sos cargoso/a, te comunicas con ellos lo mínimo e indispensable para que así no se sientan agobiados.",
+        "Devolucion": "Más allá que la opción que elegiste puede ser algo que sirva, creemos que sería interesante que prestar especial atención al Episodio 3, en donde veremos los temas de la comunicación oral y la escucha activa. Tener en cuenta estos conceptos, te podrían ser de gran ayuda."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": " Tenés que decirle a tu vecino el precio que le va a costar un trabajo que te pidió que le hagas en tu taller. ¿Cómo se lo dirías vos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ya es que el cliente es tu vecino, esperás llegar a tu casa para decírselo en persona.",
+        "Devolucion": "Una de las principales características de la comunicación escrita, es que esta, permanece en el tiempo. Esta característica es de las más importantes a nivel laboral dado la importancia en este ámbito sobre la necesidad de dejar registro de los acuerdos y de los temas hablados. Por esto, te recomendamos que estés atento/a al Episodio 4 en donde haremos foco en este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le mandas un mensaje de audio por Whatsapp en algún momento del día.",
+        "Devolucion": "Una de las principales características de la comunicación escrita, es que esta, permanece en el tiempo. Esta característica es de las más importantes a nivel laboral dado la importancia en este ámbito sobre la necesidad de dejar registro de los acuerdos y de los temas hablados. Por esto, te recomendamos que estés atento/a al Episodio 4 en donde haremos foco en este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le mandás un mensaje escrito (por mail o por teléfono) con la información correspondiente.",
+        "Devolucion": "Una de las principales características de la comunicación escrita, es que esta, permanece en el tiempo. Esta característica es de las más importantes a nivel laboral dado la importancia en este ámbito sobre la necesidad de dejar registro de los acuerdos y de los temas hablados. Por esto, te recomendamos que estés atento/a al Episodio 4 en donde haremos foco en este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Lo llamás por teléfono en cuanto tenés el dato.",
+        "Devolucion": "Una de las principales características de la comunicación escrita, es que esta, permanece en el tiempo. Esta característica es de las más importantes a nivel laboral dado la importancia en este ámbito sobre la necesidad de dejar registro de los acuerdos y de los temas hablados. Por esto, te recomendamos que estés atento/a al Episodio 4 en donde haremos foco en este tema."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Sentís que tu estilo/forma de hablar es la misma en todos los diferentes ámbitos de tu vida?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre.",
+        "Devolucion": "Existen diferentes estilos de comunicación y cada uno de ellos, puede ser más apropiado para diferentes momentos y situaciones de la vida. Estos, deberían tener relación con el contexto en el que se desarrollan. Por esto, te recomendamos que estés atento/a en la Escena 2 - Episodio 1 para conocer un poco más sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces.",
+        "Devolucion": "Existen diferentes estilos de comunicación y cada uno de ellos, puede ser más apropiado para diferentes momentos y situaciones de la vida. Estos, deberían tener relación con el contexto en el que se desarrollan. Por esto, te recomendamos que estés atento/a en la Escena 2 - Episodio 1 para conocer un poco más sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Frecuentemente",
+        "Devolucion": "Existen diferentes estilos de comunicación y cada uno de ellos, puede ser más apropiado para diferentes momentos y situaciones de la vida. Estos, deberían tener relación con el contexto en el que se desarrollan. Por esto, te recomendamos que estés atento/a en la Escena 2 - Episodio 1 para conocer un poco más sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Existen diferentes estilos de comunicación y cada uno de ellos, puede ser más apropiado para diferentes momentos y situaciones de la vida. Estos, deberían tener relación con el contexto en el que se desarrollan. Por esto, te recomendamos que estés atento/a en la Escena 2 - Episodio 1 para conocer un poco más sobre este tema."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de las siguientes afirmaciones crees que describe mejor la importancia de saber hablar en público?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hablar en público solo es importante si se tiene un rol de liderazgo.",
+        "Devolucion": "Hablar en público es crucial para compartir ideas, persuadir a otros y tener un impacto en diversos contextos, tanto en la vida profesional como personal. Por esto, te recomendamos prestar atención al Episodio 3 - Episodio 1, cuando hablemos de los beneficios de saber de  oratoria y hablar en público.\n"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hablar en público ayuda a compartir ideas y persuadir a otros, lo cual es útil en muchos contextos profesionales y personales.",
+        "Devolucion": "Hablar en público es crucial para compartir ideas, persuadir a otros y tener un impacto en diversos contextos, tanto en la vida profesional como personal. Por esto, te recomendamos prestar atención al Episodio 3 - Episodio 1, cuando hablemos de los beneficios de saber de  oratoria y hablar en público.\n"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hablar en público es una habilidad que solo se necesita en situaciones académicas.",
+        "Devolucion": "Hablar en público es crucial para compartir ideas, persuadir a otros y tener un impacto en diversos contextos, tanto en la vida profesional como personal. Por esto, te recomendamos prestar atención al Episodio 3 - Episodio 1, cuando hablemos de los beneficios de saber de  oratoria y hablar en público."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hablar en público se enfoca únicamente en la habilidad de recordar un discurso.",
+        "Devolucion": "Hablar en público es crucial para compartir ideas, persuadir a otros y tener un impacto en diversos contextos, tanto en la vida profesional como personal. Por esto, te recomendamos prestar atención al Episodio 3 - Episodio 1, cuando hablemos de los beneficios de saber de  oratoria y hablar en público.\n"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál crees que puede ser de las principales razones por las que la oratoria es considerada una habilidad valiosa?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Porque facilita la capacidad de comunicar ideas con claridad y generar impacto en presentaciones y debates.",
+        "Devolucion": "La oratoria es valiosa porque ayuda a influir en otros, transmitir ideas de manera clara y efectiva, y causar un impacto significativo en diversos escenarios, como presentaciones y debates. Por esto, te recomendamos prestar especial atención al Episodio 3 - Escena 1 en donde vas a encontrar más información sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Porque es útil para hacer discursos largos y detallados.",
+        "Devolucion": "La oratoria es valiosa porque ayuda a influir en otros, transmitir ideas de manera clara y efectiva, y causar un impacto significativo en diversos escenarios, como presentaciones y debates. Por esto, te recomendamos prestar especial atención al Episodio 3 - Escena 1 en donde vas a encontrar más información sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Porque es importante en técnicas de relajación y de actuación.",
+        "Devolucion": "La oratoria es valiosa porque ayuda a influir en otros, transmitir ideas de manera clara y efectiva, y causar un impacto significativo en diversos escenarios, como presentaciones y debates. Por esto, te recomendamos prestar especial atención al Episodio 3 - Escena 1 en donde vas a encontrar más información sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Porque ayuda a memorizar textos sin necesidad de interacción con otra persona.",
+        "Devolucion": "La oratoria es valiosa porque ayuda a influir en otros, transmitir ideas de manera clara y efectiva, y causar un impacto significativo en diversos escenarios, como presentaciones y debates. Por esto, te recomendamos prestar especial atención al Episodio 3 - Escena 1 en donde vas a encontrar más información sobre este tema."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Por qué crees que se dice que la escucha activa es fundamental durante una conversación?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Permite responder de manera inmediata sin tener que pensar mucho en lo que te dijo la persona con la que estás hablando.",
+        "Devolucion": "La escucha activa es fundamental dado que ayuda a comprender el mensaje, demuestra respeto y ayuda a que podamos dar respuestas más precisas sobre el tema en cuestión.Para tener más información sobre este aspecto clave a tener en cuenta cuando nos estamos comunicando, te recomendamos prestar especial atención al Episodio 3 - Escena 2 en donde veremos que escuchar ¡es la clave!"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Facilita entender mejor el mensaje del otro, muestra respeto y mejora la calidad de las respuestas y la resolución de problemas.",
+        "Devolucion": "La escucha activa es fundamental dado que ayuda a comprender el mensaje, demuestra respeto y ayuda a que podamos dar respuestas más precisas sobre el tema en cuestión.Para tener más información sobre este aspecto clave a tener en cuenta cuando nos estamos comunicando, te recomendamos prestar especial atención al Episodio 3 - Escena 2 en donde veremos que escuchar ¡es la clave!"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ayuda a esperar el turno para hablar sin atender a lo que dice el otro.",
+        "Devolucion": "La escucha activa es fundamental dado que ayuda a comprender el mensaje, demuestra respeto y ayuda a que podamos dar respuestas más precisas sobre el tema en cuestión.Para tener más información sobre este aspecto clave a tener en cuenta cuando nos estamos comunicando, te recomendamos prestar especial atención al Episodio 3 - Escena 2 en donde veremos que escuchar ¡es la clave!"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Favorece el interés de la otra persona en escuchar mi respuesta.",
+        "Devolucion": "La escucha activa es fundamental dado que ayuda a comprender el mensaje, demuestra respeto y ayuda a que podamos dar respuestas más precisas sobre el tema en cuestión.Para tener más información sobre este aspecto clave a tener en cuenta cuando nos estamos comunicando, te recomendamos prestar especial atención al Episodio 3 - Escena 2 en donde veremos que escuchar ¡es la clave!"
+    }
+]

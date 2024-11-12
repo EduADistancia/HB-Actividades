@@ -1,0 +1,302 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Tomarse unos minutos para preparar algo, aunque sea muy rápido, para mostrar en la reunión con su jefe que está a punto de comenzar.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Ordenar su oficina.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Chequear su casilla de mails y contestar los que quedaron pendientes de la semana pasada.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Revisar el teléfono de la oficina por si hay mensajes de voz.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Sacar turno con el médico para hacerse los controles anuales.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Chequear en su celular si tiene mensajes nuevos en las fotos que subió del fin de semana largo.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Organizar la agenda semanal y poner recordatorios para las reuniones y temas que no se puede olvidar (llamados importantes, mails o trámites de la oficina).",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Terminar la carga de datos que tenía pendiente para ese día, para que el equipo de Sistemas los pueda utilizar.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Ir a comprar el almuerzo.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Buscar información sobre un nuevo método de carga de datos más moderno y rápido.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No urgente",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Importante",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No importante",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    }
+]

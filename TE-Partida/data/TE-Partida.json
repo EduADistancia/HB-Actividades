@@ -1,0 +1,177 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Buscando que un trabajo que tenés que hacer en equipo sea exitoso, ¿cuál de las siguientes opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hacés todo el trabajo rápido por tu cuenta para asegurarte de que se haga correctamente.",
+        "Devolucion": "Si hacés todo el trabajo rápido por tu cuenta para asegurarte de que se haga correctamente, quizás sea momento de que puedas empezar a trabajar de manera colaborativa. Te sugerimos que prestes especial atención al apartado «A través del trabajo en equipo podremos», para que puedas conocer todos los beneficios de trabajar en equipo que te ayudarán a mejorar tu desempeño personal y profesional."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Dividís el trabajo en partes iguales y que cada miembro del equipo haga lo que corresponde para luego unirlo todo.",
+        "Devolucion": "Si dividís el trabajo en partes iguales y que cada miembro del equipo haga lo que corresponde para luego unirlo todo, ¡es totalmente válido! Eso habla de que seguramente, para vos es importante repartir de forma equitativa las tareas en un equipo de trabajo, a fin de evitar tensiones. Sin embargo, te recomendamos que leas detenidamente el apartado «¿En qué se diferencian un grupo y un equipo?», para que puedas comprender las diferencias entre un grupo de personas que comparten una actividad y un equipo de trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Escuchás las ideas de los miembros del equipo, colaborando y compartiendo responsabilidades para alcanzar los objetivos que tienen en común.",
+        "Devolucion": "Si escuchás las ideas de los miembros del equipo, colaborando y compartiendo responsabilidades, ¡felicitaciones! Esta es una gran estrategia para poder alcanzar los objetivos que tienen en común de la mejor manera. Te sugerimos que prestes atención entonces al apartado «Aspectos fundamentales de un equipo», donde podrás conocer las características principales de un equipo de trabajo efectivo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Trabajás en silencio y sólo te comunicás con el equipo cuando se te pida, evitando cualquier interacción adicional.",
+        "Devolucion": "Si trabajás en silencio y sólo te comunicás con el equipo cuando se te pida, evitando cualquier interacción adicional; quizás esto te impida generar confianza y un buen clima de trabajo con tus compañeros/as. Te sugerimos que hagas foco en el apartado «Aspectos fundamentales de un equipo», donde podrás conocer qué aspectos son relevantes y necesarios para un equipo de trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Mientras estás haciendo un trabajo en equipo, tenés un desacuerdo con un/a compañero/a sobre cómo seguir con un tema. ¿Cuál de las siguientes opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ignorás el desacuerdo y como estás seguro/a que lo que vos pensas es lo correcto, seguís adelante con tu propia idea para evitar conflictos.",
+        "Devolucion": "Si ignorás el desacuerdo y seguís adelante con tu propia idea para evitar conflictos, tal vez esto pueda profundizar las tensiones del equipo e impedirles trabajar de forma colaborativa. Te recomendamos que prestes atención al apartado «¿Es común que aparezcan conflictos en los equipos?», para que puedas comprender por qué es importante reconocer los conflictos en vez de evitarlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Exponés tu punto de vista de manera clara, dispuesto/a a escuchar y considerar los puntos de vista de otros/as compañeros/as para encontrar una solución en conjunto.",
+        "Devolucion": "Si exponés tu punto de vista de manera clara, dispuesto/a a escuchar y considerar los puntos de vista de otros/as compañeros/as para encontrar una solución en conjunto, ¡felicitaciones! Esta es una estrategia muy efectiva para poder resolver conflictos en equipo. Te sugerimos hacer foco en «¿Cómo podemos hacer para colaborar en la resolución de conflictos en el trabajo?», donde encontrarás una guía para seguir mejorando tus habilidades de trabajo en equipo y resolución de conflictos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Evitás el tema del desacuerdo y dejás que la situación se resuelva, sin intervenir.",
+        "Devolucion": "Si evitás el tema del desacuerdo y dejás que la situación se resuelva, sin intervenir, tal vez esto pueda profundizar las tensiones del equipo e impedirles trabajar de forma colaborativa. Te recomendamos que prestes atención al apartado «¿Es común que aparezcan conflictos en los equipos?», para que puedas comprender por qué es importante reconocer los conflictos en vez de evitarlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te enfrentas a el/la compañero/a de manera confrontativa para que se dé cuenta de que tu idea es la mejor.",
+        "Devolucion": "Si te enfrentás a el/la compañero/a de manera confrontativa para que se dé cuenta de que tu idea es la mejor, esto puede ser contraproducente y desatar una discusión que luego cueste más resolver. Te sugerimos prestar atención al apartado «Empatía y el trabajo en equipo», para que puedas mejorar tus habilidades de empatía y resolución de conflictos de manera pacífica."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Pensando en el día a día en tu lugar de trabajo, ¿cuál de estas opciones te hace sentir más identificado/a?\n",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La mayor parte del tiempo disfruto de compartir ideas, opiniones y perspectivas con mis compañeros/as, ya que creo que es enriquecedor.",
+        "Devolucion": "Si la mayor parte del tiempo disfrutás de compartir ideas, opiniones y perspectivas con tus compañeros/as, ya que creés que es enriquecedor, ¡felicitaciones! Entendés la importancia de trabajar en equipo. Te sugerimos entonces que prestes atención a «¿Por qué es importante desarrollar esta habilidad en el mundo laboral?», para que puedas seguir profundizando esta habilidad y su importancia para el mundo actual."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Prefiero trabajar de manera individual y demostrar mi desempeño sin depender de nadie.",
+        "Devolucion": "Si preferís trabajar de manera individual y demostrar tu desempeño sin depender de nadie, es fundamental que puedas comenzar a entender la importancia del trabajo en equipo. Te recomendamos que leas con atención el apartado «A través del trabajo en equipo podremos», para que puedas conocer todos los beneficios de trabajar en equipo que te ayudarán a mejorar tu desempeño personal y profesional."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me da lo mismo si tengo que trabajar en conjunto con mis compañeros/as o sólo.",
+        "Devolucion": "Si te da lo mismo trabajar en conjunto con tus compañeros/as o sólo, ¡es bueno que tengas flexibilidad! Sin embargo, es fundamental que puedas comenzar a entender la importancia del trabajo en equipo. Te recomendamos que leas con atención el apartado «A través del trabajo en equipo podremos», para que puedas conocer todos los beneficios de trabajar en equipo que te ayudarán a mejorar tu desempeño personal y profesional."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces disfruto del trabajo en equipo y a veces prefiero trabajar individualmente, dependiendo de la tarea y objetivos.",
+        "Devolucion": "Si a veces disfrutás del trabajo en equipo y a veces preferís trabajar individualmente, dependiendo de la tarea y objetivos, seguramente va a haber momentos en los que no puedas elegir, y deberás aprender a trabajar en equipo. Te recomendamos que leas con atención el apartado «A través del trabajo en equipo podremos», para que puedas conocer todos los beneficios de trabajar en equipo que te ayudarán a mejorar tu desempeño personal y profesional."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si se presentara una situación en tu trabajo, en la que tu jefe/a te pide que te encargues de revisar los detalles finales de un proyecto que se está realizando en tu equipo, ¿cuál de las siguientes situaciones se acerca más a lo que harías?\n",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hablás con todos/as tus compañeros/as para pedirles información sobre de qué se trata el proyecto, para entender la idea general antes de revisar los detalles.",
+        "Devolucion": "Si hablás con todos/as tus compañeros/as para pedirles información sobre de qué se trata el proyecto para entender la idea general antes de revisar los detalles; es una buena estrategia para obtener información valiosa sobre el proceso. Sin embargo, es importante que en un equipo de trabajo, los roles estén bien definidos. Te recomendamos la sección «¿Qué diferentes roles podemos encontrar dentro de un equipo?» para que puedas entender un poco más sobre este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te encargás sólamente de revisar los detalles, ya que ese es el rol que se te asignó y es importante respetar cada rol.",
+        "Devolucion": "Si te encargás sólamente de revisar los detalles, ya que ese es el rol que se te asignó y es importante respetar cada rol; ¡está perfecto que respetes el rol que se te asignó! De todas formas, te recomendamos que leas detenidamente el apartado «¿Por qué es importante identificar estos roles?», ya que podrás seguir profundizando sobre la importancia de los roles dentro de un equipo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si ves algo que no te gusta de la idea general del proyecto, modificás lo que te parece sin consultarle a tus compañeros/as.",
+        "Devolucion": "Si cuando ves algo que no te gusta de la idea general del proyecto, modificás lo que te parece sin consultarle a tus compañeros/as; quizás esto pueda generar conflictos o tensiones. Te sugerimos leer con atención el apartado «Problemas frecuentes en los equipos de trabajo» para que puedas comprender qué son los conflictos y por qué surgen."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te ponés a investigar nuevas ideas para sumar a las que ya están plasmadas, para aportar algo más además de lo que se te pidió.",
+        "Devolucion": "Si te ponés a investigar nuevas ideas para sumar a las que ya están plasmadas, para aportar algo más además de lo que se te pidió; ¡esto demuestra una gran proactividad de tu parte! Sin embargo, a veces puede ser contraproducente ya que estarías invirtiendo tiempo en cumplir un rol que no es el que te fue asignado. Te recomendamos la sección «¿Qué diferentes roles podemos encontrar dentro de un equipo?» para que puedas entender un poco más sobre este tema."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Creés que es común que puedan aparecer conflictos en un buen equipo de trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No. Para vos, un buen equipo debería poder prevenir la mayoría de los conflictos, ya que todos/as deberían llevarse bien y ponerse de acuerdo en todo, o casi todo.",
+        "Devolucion": "Si para vos, un buen equipo debería poder prevenir la mayoría de los conflictos, ya que todos/as deberían llevarse bien y ponerse de acuerdo en todo, o casi todo; es importante que puedas empezar a reconocer los conflictos y entender que son inherentes al ser humano. Para esto, te recomendamos que prestes atención al apartado «Problemas frecuentes en los equipos de trabajo» para que puedas comprender qué son los conflictos y por qué surgen."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, para vos, el hecho de que surjan conflictos significa que el equipo está fallando.",
+        "Devolucion": "Si para vos, el hecho de que surjan conflictos significa que el equipo está fallando; es importante que puedas empezar a reconocer los conflictos y entender que son inherentes al ser humano. Para esto, te recomendamos que prestes atención al apartado «Problemas frecuentes en los equipos de trabajo» para que puedas comprender qué son los conflictos y por qué surgen."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí. Para vos, los conflictos son inevitables en cualquier equipo, incluso en los más eficientes.",
+        "Devolucion": "Si para vos, los conflictos son inevitables en cualquier equipo, incluso en los más eficientes; ¡felicitaciones! Esta afirmación es totalmente cierta y es muy importante reconocer que los conflictos son inherentes al ser humano. De todas formas, te sugerimos hacer foco en «¿Cómo podemos hacer para colaborar en la resolución de conflictos en el trabajo?», donde encontrarás una guía para seguir mejorando tus habilidades de trabajo en equipo y resolución de conflictos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Para vos, sólo surgirán problemas si hay una mala gestión por parte del/a coordinador/a del equipo.",
+        "Devolucion": "Si para vos, sólo surgirán problemas si hay una mala gestión por parte del/a coordinador/a del equipo; es importante que puedas empezar a reconocer los conflictos y entender que no sólo dependen de cómo sea la gestión del/a coordinador/a. Para esto, te recomendamos que prestes atención al apartado «Problemas frecuentes en los equipos de trabajo» para que puedas comprender qué son los conflictos y sus posibles causas."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con cuál de las siguientes opciones te sentís más identificado/a si se presentase un conflicto entre dos o más compañeros/as tuyos/as de trabajo?\n",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Intento entender cuál es el problema, escuchando a ambas partes para, en conjunto, encontrar una solución.",
+        "Devolucion": "Si intentás entender cuál es el problema, escuchando a ambas partes para, en conjunto, encontrar una solución, ¡felicitaciones! Esta es una estrategia efectiva y empática para resolver conflictos. Te recomendamos que leas el apartado «¿Cómo podemos hacer para colaborar en la resolución de conflictos en el trabajo?», donde encontrarás una guía para seguir mejorando tus habilidades de trabajo en equipo y resolución de conflictos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Evito involucrarme y dejo que los/as demás lo resuelvan, ya que no estoy involucrado/a.",
+        "Devolucion": "Si evitás involucrarte y dejás que los/as demás lo resuelvan ya que no estás involucrado/a, es importante que puedas comprender que la responsabilidad de solucionar los conflictos es de todos/as los miembros/as del equipo. Te recomendamos que prestes atención al apartado «¿Es común que aparezcan conflictos en los equipos?», para que puedas comprender por qué es importante involucrarse en la resolución de los conflictos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tomo partido por uno/a de mis compañeros/as para apoyar la solución que considero correcta.",
+        "Devolucion": "Si tomás partido por uno/a de tus compañeros/as para apoyar la solución que considerás correcta, es importante que puedas desarrollar tus habilidades de resolución de conflictos. Para esto, te sugerimos leer con atención la sección «¿Cómo podemos hacer para colaborar en la resolución de conflictos en el trabajo?», donde encontrarás una guía para que puedas mejorar esta habilidad clave para los equipos de trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Propongo una solución rápida sin consultar a las partes involucradas, para evitar que el conflicto se prolongue.",
+        "Devolucion": "Si proponés una solución rápida sin consultar a las partes involucradas, para evitar que el conflicto se prolongue, es importante que puedas desarrollar tus habilidades de resolución de conflictos. Para esto, te sugerimos leer con atención la sección «¿Cómo podemos hacer para colaborar en la resolución de conflictos en el trabajo?», donde encontrarás una guía para que puedas mejorar esta habilidad clave para los equipos de trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": " Si quisieras poner en práctica la empatía en una conversación con alguien que está pasando por un momento difícil, ¿cuál de estas opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ofrecerías soluciones rápidas para que esa persona se sienta mejor lo antes posible.",
+        "Devolucion": "Si ofrecerías soluciones rápidas para que esa persona se sienta mejor lo antes posible, es importante poder reconocer que para practicar la empatía, primero tenemos que escuchar. Te recomendamos hacer foco en la sección «Empatía y el trabajo en equipo», donde podrás aprender qué es la empatía y cómo ponerla en práctica."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Escucharías atentamente, mostrando comprensión y validando sus emociones sin apresurarte a dar consejos.",
+        "Devolucion": "Si escucharías atentamente, mostrando comprensión y validando sus emociones sin apresurarte a dar consejos; ¡felicitaciones! Este es un primer paso efectivo para mostrar empatía hacia otra persona. Te recomendamos leer con atención el apartado «¿Cómo podemos desarrollar la empatía?» para que puedas adquirir herramientas clave a la hora de mejorar esta habilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le dirías que no se preocupe, que todos/as enfrentamos problemas similares y que esta situación ya pasará.",
+        "Devolucion": "Si le dirías que no se preocupe, que todos/as enfrentamos problemas similares y que esta situación ya pasará, es importante que puedas comprender que para practicar la empatía, es necesario reconocer y validar las emociones de los/as demás. Te recomendamos hacer foco en la sección «Empatía y el trabajo en equipo», donde podrás aprender qué es la empatía y cómo ponerla en práctica."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Cambiarías de tema para distraer a la persona de su problema y le dirías que en un tiempo, esto será una anécdota.",
+        "Devolucion": "Si cambiarías de tema para distraer a la persona de su problema y le dirías que en un tiempo, esto será una anécdota; es importante que puedas comprender que para practicar la empatía, es necesario reconocer y validar las emociones de los/as demás. Te recomendamos hacer foco en la sección «Empatía y el trabajo en equipo», donde podrás aprender qué es la empatía y cómo ponerla en práctica."
+    }
+]

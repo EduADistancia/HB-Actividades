@@ -1,0 +1,38 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuáles de las siguientes razones creés que Paula puede haber tenido para resistirse a los cambios que estaba atravesando en la fábrica?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Miedo a lo desconocido",
+        "Devolucion": "Paula trabaja en una fábrica hace diez años, y durante todo ese tiempo, tuvo una misma jefa. Sabemos que cuando esta se jubila, a Paula la invade el miedo al pensar en todo lo nuevo y desconocido que puede suceder en su trabajo a raíz de este cambio.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Comodidad con la situación actual",
+        "Devolucion": "Entendemos que Paula estaba muy cómoda en su trabajo, en donde, gracias a estar hace tantos años, con el equipo lograron tener confianza y estabilidad. Quizás, al cambiar a alguno de los actores en esa ecuación, todo lo alcanzado en los últimos años, se podría ver afectado.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Preocupaciones sobre el impacto personal.",
+        "Devolucion": "Sabemos que, luego que el nuevo jefe les cuente cuáles eran sus planes a seguir en la fábrica, Paula se hace preguntas sobre cómo puede repercutir en ella todo eso, por ejemplo, que le pidan que cambie su horario laboral o que la despidan por no lograr adaptarse.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falta de confianza en el cambio",
+        "Devolucion": "Dado que Paula sentía que en la fábrica no había problemas o motivos para hacer algún cambio, puede ser que no confíe en las propuestas del nuevo jefe. Sumado a eso, probablemente, no sea fácil confiar en esta nueva autoridad, a quien no conoce.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falta de participación en el proceso de cambio.",
+        "Devolucion": "Si tenemos en cuenta el dato que Paula trabaja hace diez años en la fábrica, y es quien más antigüedad tiene dentro de la misma, podemos pensar que, consultar con ella cuestiones, como por ejemplo, los procesos que tenían con el equipo, hubiese sido una estrategia apropiada para que los trabajadores puedan sentirse representados en esta nueva gestión de la fábrica.",
+        "Estado": 1
+    }
+]

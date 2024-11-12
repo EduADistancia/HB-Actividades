@@ -1,0 +1,202 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Estás trabajando en varias tareas con fechas de finalización/entrega muy cercanas entre sí, ¿Cuál de las siguientes opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Realizás las tareas en el orden en que se te asignaron, sin importar la urgencia de cada una.",
+        "Devolucion": "Si realizás las tareas en el orden en que se te asignaron, sin importar la urgencia de cada una, esto podría resultar en un incumplimiento de los plazos de entrega. Te recomendamos que leas con atención el apartado \"Gestión del tiempo\" para que puedas comprender de qué se trata esta habilidad y cómo desarrollarla."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Trabajás en todas las tareas simultáneamente para avanzar lo más que puedas en cada una de ellas, sin priorizar ninguna.",
+        "Devolucion": "Si trabajás en todas las tareas simultáneamente para avanzar lo más que puedas en cada una de ellas, sin priorizar ninguna, esto podría resultar en una situación de estrés o agotamiento. Te recomendamos que hagas foco en la sección \"Paso a paso para que nuestro día sea más organizado\" donde encontrarás una guía para mejorar tu gestión del tiempo y organización."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Armás una lista en orden de prioridades para ir haciéndolas en orden según su fecha de entrega (primero la más cercana y por último la que tiene fecha más tarde) dejando tiempo para revisar y ajustar según sea necesario.",
+        "Devolucion": "Si armás una lista en orden de prioridades para ir haciéndolas en orden según su fecha de entrega, ¡felicitaciones! Esto demuestra una muy buena gestión del tiempo. Te sugerimos que leas el apartado \"Paso a paso para que nuestro día sea más organizado\" donde encontrarás una guía práctica para seguir mejorando esta habilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te enfocás únicamente en la tarea que te parece más interesante, dejando las otras para más tarde.",
+        "Devolucion": "Si te enfocás únicamente en la tarea que te parece más interesante, dejando las otras para más tarde, esto podría resultar en un incumplimiento de los plazos de entrega. Te recomendamos que leas con atención el apartado \"Gestión del tiempo\" para que puedas comprender de qué se trata esta habilidad y cómo desarrollarla."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia sentís que el tiempo no te alcanza para todo lo que tenés que hacer?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre sentís que el tiempo no te alcanza para cumplir con todas tus tareas, es momento de comenzar a organizarte y gestionar tu tiempo de mejor manera. Te sugerimos que hagas foco en el apartado \"Beneficios de la correcta gestión del tiempo\" donde podrás conocer todas las ventajas de mejorar esta habilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia sentís que el tiempo no te alcanza para cumplir con todas tus tareas, es momento de comenzar a organizarte y gestionar tu tiempo de mejor manera. Te sugerimos que hagas foco en el apartado \"Beneficios de la correcta gestión del tiempo\" donde podrás conocer todas las ventajas de mejorar esta habilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si en algunas ocasiones sentís que el tiempo no te alcanza para cumplir con todas tus tareas, es importante que sepas cómo organizarte en esos casos. Te recomendamos que leas con atención el apartado \"Paso a paso para que nuestro día sea más organizado\" donde encontrarás herramientas prácticas para mejorar tu gestión del tiempo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca sentís que el tiempo no te alcanza para cumplir con todas tus tareas, ¡felicitaciones! Eso demuestra que sos una persona organizada y con buenas habilidades de gestión del tiempo. De todas formas, es importante que conozcas la importancia de esta habilidad, y para eso te recomendamos que pongas atención en el apartado \"Beneficios de la correcta gestión del tiempo\"."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te suele pasar que cuando estás haciendo algo para lo que tenés que concentrarte por un rato, te das cuenta que te estás distrayendo constantemente y no llegás a terminar lo que estabas haciendo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te pasa que cuando estás haciendo algo para lo que tenés que concentrarte por un rato, te distraés constantemente y no llegás a terminar lo que estabas haciendo, esto podría deberse a los ladrones del tiempo, que impiden una buena gestión del mismo. Te recomendamos prestar especial atención al apartado \"Ladrones del tiempo\" donde podrás comprender qué son y cómo disminuirlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia te pasa que cuando estás haciendo algo para lo que tenés que concentrarte por un rato, te distraés constantemente y no llegás a terminar lo que estabas haciendo, esto podría deberse a los ladrones del tiempo, que impiden una buena gestión del mismo. Te recomendamos prestar especial atención al apartado \"Ladrones del tiempo\" donde podrás comprender qué son y cómo disminuirlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si en algunas ocasiones te pasa que cuando estás haciendo algo para lo que tenés que concentrarte por un rato, te distraés constantemente y no llegás a terminar lo que estabas haciendo, ¡no te preocupes! Esto nos suele pasar a todos/as. Te recomendamos que prestes atención al apartado \"Ladrones del tiempo\" donde podrás comprender qué son y cómo disminuirlos para una mejor gestión del tiempo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca te pasa que cuando estás haciendo algo para lo que tenés que concentrarte por un rato, te distraés constantemente y no llegás a terminar lo que estabas haciendo, ¡felicitaciones! Eso significa que estás gestionando tu tiempo correctamente. Te recomendamos que prestes atención al apartado \"Herramientas digitales que te pueden ayudar a organizarte mejor\" donde encontrarás diferentes herramientas digitales para seguir mejorando esta habilidad."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia revisás las redes sociales, mensajes y/o notificaciones del celular durante tu jornada laboral?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre revisás las redes sociales, mensajes y/o notificaciones del celular durante tu jornada laboral, quizás estés gestionando tu tiempo de forma incorrecta y esto puede traer consecuencias en tu rendimiento laboral. Te recomendamos prestar atención a la sección \"¿Cuáles son los \"ladrones del tiempo\" más comunes en el ámbito laboral?\" para que puedas identificarlos y reducirlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia revisás las redes sociales, mensajes y/o notificaciones del celular durante tu jornada laboral, quizás estés gestionando tu tiempo de forma incorrecta y esto puede traer consecuencias en tu rendimiento laboral. Te recomendamos prestar atención a la sección \"¿Cuáles son los \"ladrones del tiempo\" más comunes en el ámbito laboral?\" para que puedas identificarlos y reducirlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si en algunas ocasiones revisás las redes sociales, mensajes y/o notificaciones del celular durante tu jornada laboral, ¡no te preocupes! Esto es común y a veces puede ser importante chequear nuestros mensajes. Te recomendamos que prestes atención al apartado \"¿Cuáles son los \"ladrones del tiempo\" más comunes en el ámbito laboral?\" para que puedas ser consciente de ellos y disminuirlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca revisás las redes sociales, mensajes y/o notificaciones del celular durante tu jornada laboral, ¡felicitaciones! Eso demuestra que estás aprovechando tu tiempo de trabajo al máximo. Te recomendamos que prestes atención al apartado \"Paso a paso para que nuestro día sea más organizado\" donde encontrarás herramientas prácticas para desarrollar aún más la habilidad de gestión del tiempo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te ha pasado alguna vez o te pasa de llegar tarde al trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre llegás tarde al trabajo, esto puede ser perjudicial para tu rendimiento ya que se puede generar una acumulación de tareas difícil de romper. Te recomendamos prestar atención al apartado \"Beneficios de la correcta gestión del tiempo\" para que puedas comprender la importancia de mejorar esta habilidad para el mundo del trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia llegás tarde al trabajo, esto puede ser perjudicial para tu rendimiento ya que se puede generar una acumulación de tareas difícil de romper. Te recomendamos prestar atención al apartado \"Beneficios de la correcta gestión del tiempo\" para que puedas comprender la importancia de mejorar esta habilidad para el mundo del trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si en algunas ocasiones llegás tarde al trabajo, ¡no te preocupes! Puede suceder que a veces lleguemos tarde por un inconveniente. Lo importante es que no se vuelva un hábito y que puedas ser consciente del tiempo que estás perdiendo. Te recomendamos que prestes atención al apartado \"¿Cuáles son los \"ladrones del tiempo\" más comunes en el ámbito laboral?\" para que puedas identificarlos y así disminuirlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca llegás tarde al trabajo ¡felicitaciones! Eso demuestra que estás organizando bien tus tiempos para asegurarte de llegar puntual. Te recomendamos que prestes atención al apartado \"Paso a paso para que nuestro día sea más organizado\" donde encontrarás herramientas prácticas para desarrollar aún más la habilidad de gestión del tiempo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia utilizás tiempo de tu día para realizar actividades de ocio, deporte, relajación, y/o vínculos personales?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre utilizás tiempo de tu día para realizar actividades de ocio, deporte, relajación, y/o vínculos personales, ¡excelente! Esto refleja que estás invirtiendo tiempo en actividades que te ayuden a desconectar de las obligaciones y reducir el estrés. Te recomendamos que prestes atención al apartado \"Paso a paso para que nuestro día sea más organizado\" donde podrás encontrar tips para potenciar al máximo tu gestión del tiempo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia utilizás tiempo de tu día para realizar actividades de ocio, deporte, relajación, y/o vínculos personales, ¡está muy bien! Esto refleja que estás invirtiendo tiempo en actividades que te ayuden a desconectar de las obligaciones y reducir el estrés. Te recomendamos que prestes atención al apartado \"Paso a paso para que nuestro día sea más organizado\" donde podrás encontrar tips para potenciar al máximo tu gestión del tiempo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si en algunas ocasiones utilizás tiempo de tu día para realizar actividades de ocio, deporte, relajación, y/o vínculos personales, es importante que puedas ser consciente de la importancia de realizar este tipo de actividades para reducir el estrés y mejorar tu productividad. Te recomendamos que prestes atención al apartado \"Paso a paso para que nuestro día sea más organizado\" donde podrás encontrar tips para mejorar tu habilidad de gestión del tiempo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca utilizás tiempo de tu día para realizar actividades de ocio, deporte, relajación, y/o vínculos personales, es importante que puedas ser consciente de la importancia de realizar este tipo de actividades para reducir el estrés y mejorar tu productividad. Te recomendamos que prestes atención al apartado \"Paso a paso para que nuestro día sea más organizado\" donde podrás encontrar tips para mejorar tu habilidad de gestión del tiempo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Sentís que te cuesta diferenciar entre las tareas urgentes e importantes en tu trabajo y/o vida personal?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, me cuesta mucho diferenciar entre las tareas urgentes e importantes en mi trabajo y/o vida personal.",
+        "Devolucion": "Si te cuesta mucho diferenciar entre las tareas urgentes e importantes en tu trabajo y/o vida personal, es momento de que puedas comenzar a comprender la diferencia entre unas y otras. Te sugerimos que prestes especial atención a la \"Matriz de Eisenhower\" en el punto 5 del apartado \"Paso a paso para que nuestro día sea más organizado\". Allí encontrarás una manera rápida y sencilla de separar lo urgente de lo importante."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me cuesta la mayoría de las veces diferenciar entre las tareas urgentes e importantes en mi trabajo y/o vida personal.",
+        "Devolucion": "Si te cuesta la mayoría de las veces diferenciar entre las tareas urgentes e importantes en tu trabajo y/o vida personal, es importante que puedas tener en cuenta sus diferencias para una mejor gestión del tiempo durante tu jornada laboral. Te sugerimos que prestes especial atención a la \"Matriz de Eisenhower\" en el punto 5 del apartado \"Paso a paso para que nuestro día sea más organizado\". Allí encontrarás una manera rápida y sencilla de separar lo urgente de lo importante."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En ocasiones me cuesta diferenciar entre las tareas urgentes e importantes en mi trabajo y/o vida personal, pero generalmente puedo diferenciarlas.",
+        "Devolucion": "Si en ocasiones te cuesta diferenciar entre las tareas urgentes e importantes en tu trabajo y/o vida personal, pero generalmente podés diferenciarlas, ¡es muy positivo que generalmente logres diferenciarlas! Sería importante que aprendas una forma rápida y sencilla de identificar unas y otras, y para eso te sugerimos prestar atención a la \"Matriz de Eisenhower\" en el punto 5 del apartado \"Paso a paso para que nuestro día sea más organizado\"."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No me cuesta diferenciar entre las tareas urgentes e importantes en mi trabajo y/o vida personal.",
+        "Devolucion": "Si no te cuesta diferenciar entre las tareas urgentes e importantes en tu trabajo y/o vida personal, ¡felicitaciones! Esto refleja una muy buena habilidad para planificar y organizar tu tiempo. Te sugerimos que hagas foco en el apartado \"Herramientas digitales que te pueden ayudar a organizarte mejor\" para seguir sumando herramientas a la hora de potenciar esta habilidad."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Utilizás alguna de las siguientes herramientas en tu día a día para organizar tu tiempo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, una agenda en papel para tomar notas durante reuniones laborales.",
+        "Devolucion": "Si utilizás una agenda en papel para tomar notas durante reuniones laborales, ¡eso está excelente para no olvidar nada! También es importante que puedas conocer otras herramientas digitales para organizarte. Para esto, te recomendamos prestar atención a la sección \"Herramientas digitales que te pueden ayudar a organizarte mejor\"."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, un planificador de tareas digital para el celular y/o computadora que permite establecer recordatorios y prioridades.",
+        "Devolucion": "Si utilizás un planificador de tareas digital para el celular y/o computadora que permite establecer recordatorios y prioridades, ¡excelente! Es una gran opción para planificar y organizar tus tiempos. Para conocer más herramientas digitales de gestión del tiempo, te sugerimos hacer foco en \"Herramientas digitales que te pueden ayudar a organizarte mejor\"."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, un reloj de pared que marca el tiempo en el trabajo.",
+        "Devolucion": "Si utilizás un reloj de pared que marca el tiempo en el trabajo, ¡eso está muy bien para estar atento/a al horario de trabajo! También es importante que puedas conocer otras herramientas digitales para organizarte. Para esto, te recomendamos prestar atención a la sección \"Herramientas digitales que te pueden ayudar a organizarte mejor\"."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No utilizo ninguna de estas herramientas para organizar mi tiempo.",
+        "Devolucion": "Si no utilizás ninguna herramienta para organizar tu tiempo, es importante que sepas que existen muchas herramientas digitales que te pueden servir para gestionar mejor tu tiempo. Para conocerlas, te sugerimos hacer foco en \"Herramientas digitales que te pueden ayudar a organizarte mejor\"."
+    }
+]
