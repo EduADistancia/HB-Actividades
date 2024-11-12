@@ -34,7 +34,6 @@ function cambiarEstiloSeleccion() {
     let selects = document.querySelectorAll('select');
     selects.forEach(s => {
         s.addEventListener('change', ev =>{
-            console.log('Seleccionado: ', s.value);
             if (s.selected) s.classList.add('seleccionado');
         });
     });
