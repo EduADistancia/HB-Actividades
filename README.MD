@@ -2,6 +2,7 @@
 ## Actividades adicionales
 
 Vista de actividades:
+- [Adaptabilidad - Punto de Partida](https://eduadistancia.github.io/HB-Actividades/AD-Partida)
 - [Adaptabilidad - Actividad: Resistencia al cambio](https://eduadistancia.github.io/HB-Actividades/AD-RCambio)
 - [Trabajo en Equipo - Punto de Partida](https://eduadistancia.github.io/HB-Actividades/TE-Partida)
 - [Comunicación Efectiva - Punto de Partida](https://eduadistancia.github.io/HB-Actividades/CE-Partida)

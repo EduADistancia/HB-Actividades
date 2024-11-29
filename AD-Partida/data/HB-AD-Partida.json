@@ -1,0 +1,177 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Tu equipo de trabajo enfrenta un cambio inesperado en el proyecto en el que están trabajando, ¿Cuál de las siguientes opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te resistís al cambio y seguís trabajando con el plan original, esperando que el cambio se revierta.",
+        "Devolucion": "Si te resistís al cambio y seguís trabajando con el plan original, esperando que el cambio se revierta, es importante que puedas comprender la importancia de poder adaptarte a los cambios en el entorno laboral. Por eso, te invitamos a leer con atención el apartado \"¿Por qué es importante la adaptabilidad en el mundo del trabajo?\" donde encontrarás los motivos por los que es fundamental que empieces a desarrollar la habilidad de adaptabilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Acusás a los responsables del cambio y te quejás de cómo afecta al proyecto sin proponer soluciones ya que el conflicto en cuestión es por culpa de otros.",
+        "Devolucion": "Si acusás a los responsables del cambio y te quejás de cómo afecta al proyecto sin proponer soluciones ya que el conflicto en cuestión es por culpa de otros, es importante que puedas entender que los cambios son inevitables en un entorno laboral dinámico y cambiante como el que vemos actualmente. Te recomendamos que prestes especial atención en el apartado \"Resistencia al cambio\" en la cual podrás comprender qué es la resistencia al cambio y cómo mejorarla."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aceptás el cambio con buena actitud y colaborás con el equipo para pensar un nuevo plan según sea necesario.",
+        "Devolucion": "Si aceptás el cambio con buena actitud y colaborás con el equipo para pensar un nuevo plan según sea necesario, ¡felicitaciones! Esto refleja una actitud proactiva y flexible frente a los cambios, esencial para una adaptación efectiva en entornos dinámicos. Te sugerimos que hagas foco en la sección \"¿Cómo entrenar la adaptabilidad para superar cambios?\" donde encontrarás una guía para seguir mejorando esta habilidad tan importante."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Evitás involucrarte y dejás que otros miembros del equipo se encarguen de la nueva situación.",
+        "Devolucion": "Si evitás involucrarte y dejás que otros miembros del equipo se encarguen de la nueva situación, es importante que tengas en cuenta que los cambios generan importantes movimientos en nuestras emociones. Te recomendamos que leas con atención el apartado \"Nuestras emociones y la adaptabilidad\" para que entiendas la importancia de involucrarte en los procesos de cambio."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "En el lugar en donde trabajás les avisan que van a cambiar la forma en la que tienen que ir reportando el avance de los proyectos en los que están trabajando. ¿Cuál de las siguientes opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Continuás utilizando el método anterior sin preocuparte por la nueva propuesta, ya que sentís que no vas a poder hacerlo de otra forma a la que estás acostumbrado/a.",
+        "Devolucion": "Si continúas utilizando el método anterior sin preocuparte por la nueva propuesta, es importante que puedas comprender las consecuencias que puede tener no lograr adaptarte a los cambios en el ámbito laboral. Te sugerimos que leas con atención el apartado \"Resistencia al cambio\" para comprender qué impacto puede tener ésta en tu desempeño laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te quejás sobre este cambio con tus compañeros y te resistís, sin intentar adaptarte a los nuevos procedimientos.",
+        "Devolucion": "Si te quejás sobre este cambio con tus compañeros y te resistís, sin intentar adaptarte a los nuevos procedimientos, es importante que puedas identificar por qué te resistís al cambio. Para esto, te recomendamos que hagas foco en la sección \"¿Cuáles son las razones por las que podemos resistirnos al cambio?\" donde encontrarás por qué a veces nos resistimos a los cambios y cómo podemos afrontrarlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Investigás esta nueva idea que les propusieron para comprender cómo sería, y empezás a pensar cuáles serán los cambios que tendrás que hacer en tu rutina para cumplir con esta nueva indicación.",
+        "Devolucion": "Si investigás la nueva idea que les propusieron para comprender cómo sería, y empezás a pensar cuáles serán los cambios que tendrás que hacer en tu rutina para cumplir con esta nueva indicación, ¡felicitaciones! Esto demuestra una actitud proactiva y adaptativa. Te sugerimos que prestes atención al apartado \"¿Cómo entrenar la adaptabilidad para superar cambios?\" donde encontrarás una guía para seguir mejorando esta habilidad tan importante."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Esperás que tu supervisor te explique cada detalle de la nueva política antes de realizar cualquier cambio en tu trabajo.",
+        "Devolucion": "Si esperás que tu supervisor te explique cada detalle de la nueva política antes de realizar cualquier cambio en tu trabajo, eso no está nada mal. De todas formas, es importante que, más allá de las explicaciones que te puedan dar para desarrollar la tarea, logres fortalecer la proactividad como actitud frente a los cambios. Te sugerimos que leas el apartado “¿Cómo entrenar la adaptabilidad para superar cambios?”, que te permitirá encontrar recursos para saber cómo manejarte de manera autónoma ante este tipo de situaciones."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan frecuentemente te sentís estresado/a a causa de temas laborales?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Permanentemente",
+        "Devolucion": "Si permanentemente sentís estrés debido a temas laborales, es el momento de empezar a aprender a gestionarlo, ya que esto puede tener consecuencias graves en tu salud. Te recomendamos la sección \"Estrés laboral\" donde podrás comprender qué es y encontrar herramientas prácticas para manejarlo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia sentís estrés debido a temas laborales, es el momento de empezar a aprender a gestionarlo, ya que esto puede tener consecuencias graves en tu salud. Te recomendamos la sección \"Estrés laboral\" donde podrás comprender qué es y encontrar herramientas prácticas para manejarlo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si en algunas ocasiones sentís estrés debido a temas laborales, ¡no te preocupes! Es normal. De todas maneras, te recomendamos que prestes atención al apartado \"Estrés laboral\" donde podrás comprender qué es y encontrar herramientas prácticas para manejarlo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca sentís estrés debido a temas laborales, ¡felicitaciones! Esto es algo muy positivo. De todas maneras, te recomendamos que prestes atención al apartado \"Consejos para poder manejar el estrés y/o prevenirlo\" donde encontrarás herramientas prácticas para seguir mejorando tu gestión del estrés."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un/a compañero/a nuevo/a ingresa a tu equipo de trabajo. ¿Cuál de estas opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Lo/a ignorás y esperás que sólo/a aprenda todo sobre el trabajo.",
+        "Devolucion": "Si lo/a ignorás y esperás que sólo/a aprenda todo sobre el trabajo, es importante que comprendas la importancia de poder apoyarse mutuamente dentro de los equipos en momentos de cambio. Te sugerimos prestar atención al apartado \"¿Cómo entrenar la adaptabilidad para superar cambios?\" donde encontrarás herramientas prácticas para poder adaptarte mejor a los cambios en tu trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te presentás, le preguntás si necesita algo y te ofrecés a disposición para cualquier duda que tenga sobre el trabajo.",
+        "Devolucion": "Si te presentás, le preguntás si necesita algo y te ofrecés a disposición para cualquier duda que tenga sobre el trabajo, ¡felicitaciones! Esto demuestra una actitud muy proactiva y flexible ante los cambios. Te recomendamos la sección \"¿Cómo entrenar la adaptabilidad para superar cambios?\" donde encontrarás herramientas prácticas para continuar mejorando esta habilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le hacés sentir que es nuevo/a en cada oportunidad que se te presente, para que te respete.",
+        "Devolucion": "Si le hacés sentir que es nuevo/a en cada oportunidad que se te presente, para que te respete, es importante que puedas empezar a mejorar tu flexibilidad ante los cambios. Te sugerimos prestar atención al apartado \"¿Cómo entrenar la adaptabilidad para superar cambios?\" donde encontrarás herramientas prácticas para poder adaptarte mejor a los cambios en tu trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Como no lo/a conocés, desconfiás de que pueda hacer bien su trabajo, ya que es nuevo/a, y preferís hacer todo vos para no atrasarse con las tareas pendientes.",
+        "Devolucion": "Si desconfiás de que pueda hacer bien su trabajo, ya que es nuevo/a, y preferís hacer todo vos para no atrasarse con las tareas pendientes, es importante que puedas empezar a mejorar tu flexibilidad ante los cambios. Te sugerimos prestar atención al apartado \"¿Cómo entrenar la adaptabilidad para superar cambios?\" donde encontrarás herramientas prácticas para poder adaptarte mejor a los cambios en tu trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Tenés un emprendimiento de pastelería. El proveedor de chocolate con el que trabajás, te avisa que no va a fabricar más ese producto porque subió de precio la materia prima. Vos contabas con que esta semana te iba a entregar varios kilos para poder realizar tus pedidos ¿Cuál de estas situaciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te enojás y le decís que te debe pagar los pedidos que vas a perder por cancelarte la entrega a último momento.",
+        "Devolucion": "Si te enojás y le decís que te debe pagar los pedidos que vas a perder por cancelarte la entrega a último momento, es importante que puedas comprender que emprender implica enfrentarte a cambios constantes. Es por eso que te recomendamos el apartado \"Cambios y adaptación en el ámbito laboral\" donde podrás aprender sobre los cambios en el mundo actual."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te preocupás y te estresás, ya que esta situación te genera un problema y no sabés qué hacer para solucionarlo.",
+        "Devolucion": "Si te preocupás y te estresás, ya que esta situación te genera un problema y no sabés qué hacer para solucionarlo, es importante que puedas empezar a gestionar tus emociones frente a los cambios. Para esto, te sugerimos el apartado \"Nuestras emociones y la adaptabilidad\" donde podrás encontrar la importancia de las emociones en los procesos de cambio."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te ponés a buscar rápidamente otro proveedor, y mientras le avisas a tus clientes que te vas a demorar un tiempo más en entregar sus pedidos, ofreciéndoles la posibilidad de cancelar y asegurando que en tal caso, les devolverás el dinero.",
+        "Devolucion": "Si te ponés a buscar rápidamente otro proveedor, mientras le avisas a tus clientes que te vas a demorar un tiempo más en entregar sus pedidos, ofreciéndoles la posibilidad de cancelar y asegurando que en tal caso, les devolverás el dinero, ¡felicitaciones! Esta actitud demuestra una clara habilidad para adaptarte a los cambios. Te recomendamos que prestes atención a la sección \"¿Cómo puedo entonces desarrollar la adaptabilidad?\" donde podrás seguir mejorando esta habilidad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Cancelás todos los pedidos de esa semana y te tomás ese tiempo para descansar, ya que lo que te pasó no fue culpa tuya.",
+        "Devolucion": "Si cancelás todos los pedidos de esa semana y te tomás ese tiempo para descansar, ya que lo que te pasó no fue culpa tuya, ¡es válido! Sin embargo, sería ideal que puedas adaptarte mejor ante una situación de cambio, para no perder tiempo ni dinero. Te recomendamos que hagas foco en \"Cambios y adaptación en el ámbito laboral\" para que puedas mejorar tus habilidades de adaptación."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia realizás actividades de ocio, recreación y/o meditación para relajarte y desconectar de tus obligaciones?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Todos los días.",
+        "Devolucion": "Si todos los días realizás actividades que te ayuden a relajarte, ¡felicitaciones! Esto demuestra una adecuada gestión del estrés. Te sugerimos que hagas foco en la sección \"Consejos para poder manejar el estrés y/o prevenirlo\" donde encontrarás más consejos para prevenir el estrés."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia realizás actividades que te ayuden a relajarte, ¡excelente! Esto demuestra una adecuada gestión del estrés. Te sugerimos que hagas foco en la sección \"Consejos para poder manejar el estrés y/o prevenirlo\" donde encontrarás más consejos para prevenir el estrés."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Esporádicamente.",
+        "Devolucion": "Si esporádicamente realizás actividades que te ayuden a relajarte, es importante que puedas darte más espacios para desconectarte de las obligaciones, a fin de prevenir el estrés. Te recomendamos que hagas foco en la sección \"Consejos para poder manejar el estrés y/o prevenirlo\" donde encontrarás más consejos para mejorar la gestión del estrés."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Si nunca realizás actividades que te ayuden a relajarte, es importante que puedas comenzar a darte espacios para desconectarte de las obligaciones, a fin de prevenir el estrés. Te recomendamos que hagas foco en la sección \"Consejos para poder manejar el estrés y/o prevenirlo\" donde encontrarás consejos para mejorar la gestión del estrés."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "En dos horas tenés una reunión muy importante con el CEO de la empresa donde trabajás, que vive en el exterior. Te preparaste durante varios días y tenés todo listo para presentarle un nuevo proyecto. A último momento avisa que tuvo un imprevisto y la reunión debe pasarse para más tarde, fuera de tu horario laboral, cuando ya tenías un compromiso personal pautado. ¿Cuál de estas opciones se acerca más a lo que harías?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le decís que no podés y le mandás la presentación que ibas a proyectar por mail.",
+        "Devolucion": "Si le decís que no podés y le mandás la presentación que ibas a proyectar por mail, es momento de que puedas comenzar a entrenar tu adaptabilidad, ya que esto te traerá muchos beneficios en el trabajo. Te recomendamos que leas con atención el apartado \"Adaptabilidad en el mundo laboral\" para que puedas comprender de qué se trata esta habilidad y cómo mejorarla."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te enojás y renunciás ya que te parece un despropósito que no se respete tu horario laboral.",
+        "Devolucion": "Si te enojás y renunciás ya que te parece un despropósito que no se respete tu horario laboral, es importante que puedas contemplar que los cambios e imprevistos son parte del entorno laboral. Te sugerimos leer con atención la sección \"Cambios y adaptación en el ámbito laboral\" donde encontrarás los tipos de cambios que podemos enfrentar y cómo afrontarlos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le pedís a un/a compañero/a que te cubra en la reunión y que explique por qué vos no pudiste estar.",
+        "Devolucion": "Si le pedís a un/a compañero/a que te cubra en la reunión y que explique por qué vos no pudiste estar, esto podría ser una buena opción, pero sería importante que puedas mejorar tu adaptabilidad al cambio. Te sugerimos que leas el apartado \"Adaptabilidad en el mundo laboral\" para que puedas comprender de qué se trata esta habilidad y cómo desarrollarla."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tratás de cancelar con el mayor tiempo posible el compromiso que tenías para poder estar en la reunión, ya que para vos es importante contarle tu proyecto al CEO.",
+        "Devolucion": "Si tratás de cancelar con el mayor tiempo posible el compromiso que tenías para poder estar en la reunión, ya que para vos es importante contarle tu proyecto al CEO, ¡felicitaciones! Esta opción refleja una gran flexibilidad para adaptarte a los imprevistos. Te recomendamos que hagas foco en la sección \"¿Cómo puedo entonces desarrollar la adaptabilidad?\" donde encontrarás tips para seguir ejercitando esta habilidad."
+    }
+]
